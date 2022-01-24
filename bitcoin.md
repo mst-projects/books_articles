@@ -1,8 +1,8 @@
 # ビットコインを理解するための文献
 
-**1. White Paper**
-Satoshi Nakamoto Bitcoin White Paper (English)
-https://bitcoin.org/bitcoin.pdf
+## 1. White Paper**
+#### Satoshi Nakamoto Bitcoin White Paper (English)
+##### https://bitcoin.org/bitcoin.pdf
 
 Satoshi Nakamoto Bitcoin White Paper (Japanese)
 https://bitcoin.org/files/bitcoin-paper/bitcoin_jp.pdf
