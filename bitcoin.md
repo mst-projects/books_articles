@@ -1,4 +1,4 @@
-*ビットコインを理解するための文献*
+#ビットコインを理解するための文献#
 
 **1. White Paper**
 Satoshi Nakamoto Bitcoin White Paper (English)
