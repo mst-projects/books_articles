@@ -5,7 +5,7 @@
 #### https://bitcoin.org/bitcoin.pdf
 
 Satoshi Nakamoto Bitcoin White Paper (Japanese)
-https://bitcoin.org/files/bitcoin-paper/bitcoin_jp.pdf
+#### https://bitcoin.org/files/bitcoin-paper/bitcoin_jp.pdf
 
 ## 2.  初期の生成/発展の物語
 #### ナサニエル・ポッパー『デジタルゴールド』
